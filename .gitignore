@@ -1,0 +1,13 @@
+# data files - too large for git, documented in README instead
+data/*.json.gz
+data/*.jsonl
+data/*.csv
+
+# python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
